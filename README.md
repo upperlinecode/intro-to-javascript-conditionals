@@ -1,4 +1,4 @@
-# JavaScript Flow Control
+# JavaScript Control Flow
 
 ## Objectives
 + Write `if` statements in JS
