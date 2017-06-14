@@ -1,7 +1,7 @@
 {
-  "name": "js-functions-lab",
+  "name": "intro-to-js-conditionals",
   "version": "0.1.0",
-  "description": "Practice writing functions in JavaScript on Learn.co",
+  "description": "Understand control flow in JS",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -9,21 +9,6 @@
   "scripts": {
     "test": "mocha -R mocha-multi --reporter-options nyan=-,json=.results.json"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/learn-co-curriculum/js-functions-lab.git"
-  },
-  "keywords": [
-    "javascript",
-    "functions",
-    "learn"
-  ],
-  "author": "Learn.co",
-  "license": "SEE LICENSE IN LICENSE.md",
-  "bugs": {
-    "url": "https://github.com/learn-co-curriculum/js-functions-lab/issues"
-  },
-  "homepage": "https://github.com/learn-co-curriculum/js-functions-lab#readme",
   "devDependencies": {
     "chai": "^3.5.0",
     "expect": "^1.20.2",
